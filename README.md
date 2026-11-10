@@ -3,6 +3,7 @@ Hi, I'm Raymond Alferez 👋
 IT Specialist | Microsoft 365 | Endpoint Management | Infrastructure Support
 
 I'm an IT Specialist based in the Philippines, specializing in global end-user support, endpoint management, Microsoft cloud technologies, and IT infrastructure operations.
+
 I enjoy troubleshooting technical challenges, improving IT operations, automating repetitive tasks, and building hands-on labs to expand my technical knowledge.
 
 
@@ -18,44 +19,29 @@ IT Operations: Global End-User Support, IT Asset Management, Hardware Lifecycle,
 
 🧪 Home Lab Projects
 I'm continuously developing practical skills through hands-on infrastructure and cloud administration projects.
-
 Microsoft Intune Lab – Exploring and implementing device enrollment, configuration profiles, compliance policies, and endpoint management.
-
 Microsoft Entra ID Lab – Improving identity management, user administration, groups, and access controls.
-
 VMware ESXi Home Lab – Building and managing virtual machines and virtual networking.
-
 Active Directory Lab – Practicing domain services, Group Policy, DNS, and replication.
-
 Pi-hole DNS Lab – Implementing network-wide DNS filtering using Debian Linux and Pi-hole.
-
 PowerShell Automation – Developing scripts for IT administration and endpoint management.
 
 🎓 Certifications
 
 Microsoft Certified: Endpoint Administrator Associate (MD-102)
-
 Microsoft Certified: Azure Fundamentals (AZ-900)
-
 Cisco Certified Network Associate (expired)
 
 📚 Currently Learning
-
 Microsoft 365 Administration (MS-102)
-
 Advanced Microsoft Intune Administration
-
 Azure Infrastructure and Windows Server Hybrid Administration
-
 PowerShell Automation
 
 📫 Connect With Me
 
 LinkedIn: www.linkedin.com/in/raymond-alferez
-
 Email: raymond@alfereztech.com
-
 Location: Philippines
-
 
 Always learning, building, troubleshooting, and improving IT operations.
